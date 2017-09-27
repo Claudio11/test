@@ -1,2 +1,2 @@
-chenged everything in file automatic.
-chenged everything in file 111.
+changed everything in file automatic normal merge strategy.
+changed everything in file 111.
