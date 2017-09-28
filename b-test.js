@@ -1,2 +1,2 @@
 changed also changed everything in file automatic normal merge strategy.
-changed everything in file 111223344.
+changed everything in file 11122339944.
