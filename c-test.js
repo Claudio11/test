@@ -1,1 +1,1 @@
-c test, modified remote.
+c test, modified local automatic.
