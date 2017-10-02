@@ -1,0 +1,149 @@
+{
+  "app": "com.bohemiancoding.sketch3",
+  "appVersion": "46.2",
+  "autosaved": 0,
+  "build": 44496,
+  "commit": "752502a5f62450dd6555e39d77a464fb4c5043e7",
+  "compatibilityVersion": 93,
+  "created": {
+    "app": "com.bohemiancoding.sketch3",
+    "appVersion": "46.2",
+    "build": 44496,
+    "commit": "752502a5f62450dd6555e39d77a464fb4c5043e7",
+    "compatibilityVersion": 93,
+    "variant": "NONAPPSTORE",
+    "version": 93
+  },
+  "fonts": ["ProximaNova-Regular", "SFUIText-Regular", "ProximaNova-Semibold", "SFUIText-Semibold"],
+  "pagesAndArtboards": {
+    "0E3A2CF6-35A2-4EE5-95B8-33B2F19753A9": {
+      "artboards": {
+        "2EA735F5-87A2-4F81-9C6C-240F5EA0F90B": {
+          "name": "AssetsContainer"
+        },
+        "439157DB-9DD1-4194-9FAE-5D0E6411773E": {
+          "name": "02. VisaTravelAgent"
+        },
+        "4E5DFC3B-A3FA-4875-BC5A-AD08DAD1B3DF": {
+          "name": "04. VisaTravelAgent"
+        },
+        "5848A539-B8E0-4AFC-80E6-EEBC2F1F1819": {
+          "name": "03. VisaTravelAgent"
+        },
+        "5BEAA558-77C6-447B-9825-A84BB7953DE4": {
+          "name": "01. VisaTravelAgent"
+        },
+        "6ECC3978-4E2E-4737-A7BE-8BD01E105916": {
+          "name": "07. VisaTravelAgent"
+        },
+        "814D275B-38E2-47CB-9CAE-FF771271837F": {
+          "name": "06. VisaTravelAgent"
+        },
+        "E47E62D2-A2D3-4DE0-8354-ACAA12B31D4A": {
+          "name": "05. VisaTravelAgent"
+        }
+      },
+      "name": "Page 1"
+    },
+    "7227EA23-1C67-4518-97C3-A9EBA0B53FA1": {
+      "artboards": {
+        "0002EA1F-1070-47EC-8F51-97BD04CDAC93": {
+          "name": "Row/product/Pressed"
+        },
+        "1BDF5672-C315-4377-8204-45AE34779CC8": {
+          "name": "Icons/creditCard"
+        },
+        "289136A7-92BC-4BEF-BF00-C5AF209FFCA2": {
+          "name": "Icons/icon_euro"
+        },
+        "2E7FA38A-1FDA-4D56-BBEF-988C32581751": {
+          "name": "Status Bar/White/100%"
+        },
+        "37F4DE44-35FB-4BFE-9163-8A1D540B3476": {
+          "name": "Icons/concert-ticket"
+        },
+        "41B36EFB-C48D-4AED-8EAD-A2CA1B5C95DE": {
+          "name": "Icons/black-plane"
+        },
+        "5B425F5A-745C-4A3B-99F2-E7028CE8C83A": {
+          "name": "Form/radio button/selected"
+        },
+        "672594C2-292D-4623-B999-C44033A37A34": {
+          "name": "Icons/shopping-bag"
+        },
+        "6E01D543-1B39-47EF-991E-C16A10326A97": {
+          "name": "Icons/shopping-bag"
+        },
+        "710EBC19-1146-426F-8EE3-4A05BC09D9B7": {
+          "name": "Icons/icon_usd"
+        },
+        "797B49FD-AF6A-4DB4-BA61-70D20602515F": {
+          "name": "Icons/shopping-bag"
+        },
+        "87B20FF3-DF4F-4220-8E80-A7F04A834096": {
+          "name": "Icons/rugby-balls"
+        },
+        "BBAF2BC3-34F4-4E5D-AF8D-36953DC46A46": {
+          "name": "Icons/black-plane"
+        },
+        "BF214B64-C9CC-4B11-821C-1EF32C4765F2": {
+          "name": "Icons/icon_usd"
+        },
+        "C35DEFBD-F271-4F9C-B79D-F91C4EE79325": {
+          "name": "Icons/icon_usd"
+        },
+        "CC1809CA-D63C-45C1-96FE-58D4F4E62A1B": {
+          "name": "Icons/icon_usd"
+        },
+        "E8CC76FB-C929-459D-BE6B-006BB5BBE82F": {
+          "name": "Form/radio button/unselected"
+        },
+        "F4626281-A357-401B-B3DF-AF0F3C881B58": {
+          "name": "Icons/shopping-bag"
+        },
+        "FADC1F4F-5863-48E5-834C-47D25FF13E87": {
+          "name": "Row/product"
+        }
+      },
+      "name": "Symbols"
+    },
+    "AC91187D-7EA9-44A7-B842-4332A9D9F30C": {
+      "artboards": {
+        "08940FD6-3957-4B32-8BE7-A765CBACE1A2": {
+          "name": "Transactions"
+        },
+        "219CCB93-291A-4DA7-980C-76425EA3A668": {
+          "name": "AssetsContainer"
+        },
+        "7A1AC055-CACF-4D38-9D94-035B168AF554": {
+          "name": "ATMLocations"
+        },
+        "82584912-82C9-4BD2-B510-3BA43B6D16EE": {
+          "name": "ATMSelectLocation"
+        },
+        "8F015141-5AED-41AE-88FC-633BEFE4F77A": {
+          "name": "ApprovedTransactionPopup"
+        },
+        "BA189E16-1C7A-4EA9-BAB6-F48587E422CA": {
+          "name": "TravelModeScreen2"
+        },
+        "DB9CBB71-6FB7-4241-A3A0-669EADC5AF31": {
+          "name": "TransactionDetail"
+        },
+        "EBAC4FCA-DC0B-4915-8B02-7023B4BF2800": {
+          "name": "ApprovePopUp"
+        },
+        "F387394E-B557-4DE0-8125-D0B682FFF2C5": {
+          "name": "Login"
+        },
+        "F5FE7849-E875-4E58-8F69-CF6E21AF347F": {
+          "name": "TravelModeScreen1"
+        }
+      },
+      "name": "VISA"
+    }
+  },
+  "saveHistory": ["NONAPPSTORE.44496"],
+  "variant": "NONAPPSTORE",
+  "version": 93
+}
