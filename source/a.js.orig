@@ -1,7 +1,7 @@
 11
 242
 <<<<<<< HEAD
-39370008local
+39370008local another local
 =======
-39370008remote
->>>>>>> 751092bedfb7e0fbdc6facd0831976e619893318
+39370008local another remote
+>>>>>>> f8ecb3e2db4dde6781c875d62e3255cb1f85f600
